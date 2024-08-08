@@ -10,7 +10,7 @@
 
 ## วิธีการคอมไพล์
 
-ให้ใช้คำสั่งต่อไปนี้ใน Command Prompt หรือ Terminal:
+ให้ใช้คำสั่งต่อไปนี้ใน Command Prompt หรือ Terminal:  
 
 ```sh
 gcc -o serial_communication serial_communication.c -lws2_32
